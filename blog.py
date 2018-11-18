@@ -8,7 +8,6 @@ This is a temporary script file.
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import seaborn as sns; sns.set()
 from cycler import cycler
 plt.rcParams['figure.figsize'] = 16, 12
 #%cd '/home/omarsamhan/projects/t'

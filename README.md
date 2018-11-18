@@ -1,4 +1,4 @@
-# dsnd-blog-post
+# When is the best time to book your next Airbnb?
 
 This is the fourth project in Udacity's Data Scientist Nanodegree. I analyze data for Airbnb in Toronto for 2018/19, and attempt to find interesting trends and observations. My main question is when is the best time to book a property on Airbnb for Christmas in Toronto.
 
@@ -10,9 +10,9 @@ The files in the repository are:
 
 For this project, tibraries used are `numpy` `pandas` `matplotlib` `cycler`.
 
-The data files were too big to upload onto github. So in order to replicate the results, please submit the following commands in the command line.
+The data files were too big to upload onto github. So in order to replicate the results, please submit the following commands in the command line from the directory of your choice.
 
-```
+```bash
 git clone https://github.com/beefupinetree/dsnd-blog-post.git
 cd data/
 
