@@ -39,3 +39,5 @@ mv calendar.csv calendar_oct.csv
 ## Summary
 
 The data shows certain seasonal and inherent trends which are consistent throughout different extraction dates. There are spikes in the week of the winter holidays no matter when we look at the data. However, by comparing the average listing price per day for each different extraction date, we concluded that the best time to book a listing during the winter holidays is in the month of July.
+
+<p align="center"><img src="/img/4.png?raw=true"/></p>
