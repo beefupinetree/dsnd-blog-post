@@ -1,6 +1,10 @@
 # When is the best time to book your next Airbnb?
 
-This is the fourth project in Udacity's Data Scientist Nanodegree. I analyze data for Airbnb in Toronto for 2018/19, and attempt to find interesting trends and observations. My main question is when is the best time to book a property on Airbnb for Christmas in Toronto.
+This is the fourth project in Udacity's Data Scientist Nanodegree. I analyze data for Airbnb in Toronto for 2018/19, and attempt to find interesting trends and observations. I attempt to answer 3 main questions here: 
+
+1. Are there any visible trends in the Airbnb prices in Toronto?
+2. Are weekends actually more expensive to book?
+3. What is the ideal time to book your Airbnb during the holiday season in Toronto?
 
 The files in the repository are:
 
